@@ -1,0 +1,1 @@
+[{"name": "Shradhha Amatya", "payment_left": 0, "roll": 1, "course_complete": false}, {"name": "Shreya Baidya", "payment_left": 10000, "roll": 2, "course_complete": false}, {"name": "ALisha thakuri", "payment_left": 0, "roll": 3, "course_complete": false}]

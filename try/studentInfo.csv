@@ -1,0 +1,6 @@
+id,name,course,deposit,due,completion
+1,Shreya Baidya,Full Stack Web Developer,1000,1000,False
+2,Sankalpa Pokhrel,Android App Development,2000,0,True
+3,Ankit Shrestha,IOS App Development,1000,1000,False
+4,Shraddha Amatya,CLoud Computing,1000,1000,False
+5,Alisha Thakuri,AR/VR,2000,0,False
